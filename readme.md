@@ -4,6 +4,4 @@ second modified.
 
 third modified.
 
-dev.
-
-Creating a new branch is quick and simple.
+dev2.
